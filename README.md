@@ -1,11 +1,13 @@
+_NOTE:_ Forked from [here](https://github.com/chatscope/chat-ui-kit-react) to update peerDependencies for React 19. If the original has been updated, or you are using React 18 or earlier, don't use this fork.
+
 # Chat UI Kit React
 
 [![Actions Status](https://github.com/chatscope/chat-ui-kit-react/workflows/build/badge.svg)](https://github.com/chatscope/chat-ui-kit-react/actions) [![npm version](https://img.shields.io/npm/v/@chatscope/chat-ui-kit-react.svg?style=flat)](https://npmjs.com/@chatscope/chat-ui-kit-react) [![](https://img.shields.io/npm/l/@chatscope/chat-ui-kit-react?dummy=unused)](https://github.com/chatscope/chat-ui-kit-react/blob/master/LICENSE) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://chatscope.io/storybook/react/)
 
-Build your own chat UI with React components in a few minutes.  
+Build your own chat UI with React components in a few minutes.
 The Chat UI Kit from chatscope is an open source UI toolkit for developing web chat applications.
 
-Tired of struggling with sticky scrollbars, contenteditable, responsiveness, css hacks?  
+Tired of struggling with sticky scrollbars, contenteditable, responsiveness, css hacks?
 This kit is for you! [See all features](https://chatscope.io/features).
 
 **Chat UI Kit brings you chat UI development at warp speed** 🚀
@@ -96,7 +98,7 @@ The library is written in Javascript, but Typescript typings are available in th
 
 ## See also
 
-[@chatscope/use-chat](https://github.com/chatscope/use-chat) is a React hook for state management in chat applications.  
+[@chatscope/use-chat](https://github.com/chatscope/use-chat) is a React hook for state management in chat applications.
 Check it out and see how easy you can do the chat logic yourself.
 
 ## Show your support
